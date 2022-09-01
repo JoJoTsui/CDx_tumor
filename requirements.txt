@@ -1,0 +1,15 @@
+snpeff
+gatk4
+fastp
+bwa
+picard
+bcftools
+samtools
+pandas
+xlrd
+openpyxl
+jinja2
+fire
+p7zip
+loguru
+xlsxwriter
